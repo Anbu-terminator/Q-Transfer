@@ -30,20 +30,20 @@ The **backend must be running before using the frontend**.
 Make sure you are in the root directory where `requirements.txt` exists.
 
 📦 **Install Dependencies**
-pip install -r requirements.txt
+->pip install -r requirements.txt
 
 ▶️ Run the Backend Server
-uvicorn app.main:app --reload
+->uvicorn app.main:app --reload
 
 🎨 2.2 Frontend Setup & Running Instructions
 📁 Navigate to Frontend Root Folder
 Make sure you are in the root directory where package.json exists.
 
 📦 Install Dependencies
-npm install
+->npm install
 
 ▶️ Run the Frontend Server
-npm run dev
+->npm run dev
 
 🔄 **Application Flow**
 🔐 Encryption Flow
